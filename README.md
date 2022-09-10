@@ -1,2 +1,2 @@
 Git crash course
-git course for beginners
+git course for beginners!
